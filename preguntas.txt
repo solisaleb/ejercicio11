@@ -1,0 +1,48 @@
+¿Qué es Git?
+a) Un sistema de control de versiones
+b) Un lenguaje de programación
+c) Un editor de texto
+d) Un sistema operativo
+a
+¿Qué comando se utiliza en Git para clonar un repositorio remoto?
+a) git push
+b) git fetch
+c) git clone
+d) git pull
+c
+¿Cómo se llama el proceso en Git de fusionar ramas?
+a) Clonación
+b) Pull Request
+c) Merge
+d) Branching
+c
+¿Qué comando se utiliza en Git para crear una nueva rama?
+a) git checkout
+b) git branch
+c) git add
+d) git commit
+b
+¿Qué comando se utiliza en Git para ver el estado de los archivos en el repositorio?
+a) git add
+b) git push
+c) git commit
+d) git status
+d
+¿Qué comando se utiliza en Git para ver el historial de commits?
+a) git log
+b) git history
+c) git show
+d) git diff
+a
+¿Qué comando en Git se utiliza para cambiar de una rama a otra?
+a) git branch
+b) git checkout
+c) git commit
+d) git merge
+b
+¿Qué comando se utiliza en Git para enviar cambios locales a un repositorio remoto?
+a) git fetch
+b) git push
+c) git pull
+d) git merge
+b
