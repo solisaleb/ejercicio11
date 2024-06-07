@@ -1,2 +1,2 @@
 # JuegoTrivia
-Juego sencillo en C. 
+AHORA VUELVO A MODIFICAR
