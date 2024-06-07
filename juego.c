@@ -31,6 +31,9 @@ void imprimirPregunta(Pregunta pregunta) {
  */
 
 char capturarRespuesta() {
+    respuesta=getch();
+    
+
     //AGREGAR LA IMPLEMENTACIÓN PARA LEER LA RESPUESTA DEL JUGADOR.
     //NO MODIFIQUES LA FIRMA DE LA FUNCIÓN.
 }
