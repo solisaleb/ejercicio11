@@ -20,9 +20,7 @@ typedef struct {
  */
 
 void imprimirPregunta(Pregunta pregunta) {
-    //AGREGAR LA IMPLEMENTACIÓN PARA IMPRIMIR EN CONSOLA LA PREGUNTA Y LAS OPCIONES.
-    //NO MODIFIQUES LA FIRMA DE LA FUNCIÓN.
-}
+printf("¿Qué es Git?\na) Un sistema de control de versiones\nb) Un lenguaje de programación\nc) Un editor de texto\nd) Un sistema operativo\n\n¿qué comando se utiliza en Git para clonar un repositorio remoto?\na) git push\nb) git fetch\nc) git clone\nd) git pull\n¿Cómo se llama el proceso en Git de fusionar ramas?\na) Clonación\nb) Pull Request\nc) Merge\nd) Branching\n¿Qué comando se utiliza en Git para crear una nueva rama?\na) git checkout\nb) git branch\nc) git add\nd) git commit\n¿Qué comando se utiliza en Git para ver el estado de los archivos en el repositorio?\na) git add\nb) git push\nc) git commit\nd) git status\n¿Qué comando se utiliza en Git para ver el historial de commits?\na) git log\nb) git history\nc) git sho\nd) git diff\n¿Qué comando en Git se utiliza para cambiar de una rama a otra?\na) git branch\nb) git checkout\nc) git commit\nd) git merge\n¿Qué comando se utiliza en Git para enviar cambios locales a un repositorio remoto?\na) git fetch\nb) git push\nc) git pull\nd) git merge")}
 
 /**
  * Captura la respuesta del usuario desde la entrada estándar.
